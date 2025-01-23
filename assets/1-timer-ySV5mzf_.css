@@ -1,0 +1,1 @@
+body{font-family:Arial,sans-serif;display:flex;flex-direction:column;align-items:center;margin-top:50px}.timer{display:flex;justify-content:space-around;width:400px;margin-top:20px}.field{text-align:center}.value{font-size:2rem;display:block}.label{font-size:1rem;color:gray}button:disabled{background-color:gray;cursor:not-allowed}
